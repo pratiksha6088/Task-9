@@ -20,9 +20,8 @@ The main purpose of this task is to improve user experience by adding hover effe
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (Optional)
+- HTML
+- CSS
 
 ## CSS Properties Used
 
